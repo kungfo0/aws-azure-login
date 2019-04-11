@@ -79,6 +79,7 @@ You can optionally store your responses as environment variables:
 * `AZURE_DEFAULT_PASSWORD`
 * `AZURE_DEFAULT_ROLE_ARN`
 * `AZURE_DEFAULT_DURATION_HOURS`
+* `AUTHENTICATOR_KEY`
 
 To avoid having to ``<Enter>`` through the prompts after setting these environment variables, use the `--no-prompt` option when running the command.
 
